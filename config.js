@@ -49,10 +49,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'THEBOTMAN'
+global.botname = 'spiderman'
 global.premium = 'true'
 global.packname = 'ᴮᴼᵀ' 
-global.author = '' 
+global.author = 'spiderman' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
